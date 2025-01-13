@@ -16,7 +16,7 @@ This project focuses on analyzing sales and transaction data to uncover key tren
 
 ### Data Sources
 
-Superstore Data: The main dataset for this analysis is the "superstore_data.csv" file, which includes comprehensive transaction details across different product categories, regions, and customer segments. The dataset was sourced from Kaggle: [Get here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Superstore Data: The main dataset for this analysis is the "superstore_data.xlsx" file, which includes comprehensive transaction details across different product categories, regions, and customer segments. The dataset was sourced from Kaggle: [Get here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### Tools
 - Excel- Data Cleaning
