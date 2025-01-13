@@ -154,7 +154,7 @@ This project analyzes sales and transactions data across periods, locations, and
 These strategies aim to maximize revenue, improve regional equity, and optimize product-specific performance while aligning with customer behavior patterns and logistical preferences.
 
 
-
+The complete Superstore data analysis report, developed using Power BI, is available: [here]()
 
 
 
