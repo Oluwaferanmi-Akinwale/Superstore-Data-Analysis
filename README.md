@@ -138,15 +138,15 @@ This project analyzes sales and transactions data across periods, locations, and
 
 ### Recommendations
 
-#### 1.Optimize Sales and Transactions Trends (Page 1)
+#### 1.Optimize Sales and Transactions Trends 
  - Monthly Trends: Focus marketing campaigns during high-performing months such as March, September, and December, as these months consistently show spikes in sales. Plan for seasonal promotions and events during these periods to capitalize on customer demand.
  - Customer Segments: Prioritize efforts on Consumers and Corporate segments, as they contribute significantly to sales. Tailored offers and loyalty programs for these segments can further boost their spending.
  - Weekday Sales: Target Tuesdays and Wednesdays with special discounts or promotional events, as these days show peak sales activity. Utilize digital marketing and email campaigns to drive awareness of these midweek promotions.
-#### 2.Improve Regional Performance (Page 2)
+#### 2.Improve Regional Performance 
  - Underperforming States: Allocate marketing resources to Maine, Kansas, and Mississippi, which rank among the lowest in sales. Customized campaigns that resonate with these regions’ preferences could help improve performance.
  - Top-Performing States: Maintain strong sales momentum in California and New York, leveraging their large customer bases with premium offerings and consistent engagement.
  - Shipping Preferences: Evaluate regional preferences for shipping modes and ensure they align with customer expectations. Optimize logistics for better delivery efficiency in key areas.
-#### 3. Enhance Category-Specific Strategies (Page 3)
+#### 3. Enhance Category-Specific Strategies 
  - High-Impact Subcategories: Prioritize marketing for Tables, Chairs, and Bookcases, as they show significant influence on sales performance. Highlight these products in online and offline advertising campaigns.
  - Shipping Modes: Promote Standard Class and Second-Class shipping, which dominate sales contributions. Offering free or discounted shipping for these modes could attract more buyers and improve conversion rates.
  - Cross-Selling Opportunities: Encourage cross-category purchases by bundling high-demand subcategories with related products, enhancing overall sales and customer satisfaction.
